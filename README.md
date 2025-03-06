@@ -9,4 +9,3 @@ This project analyzes product reviews using TextBlob.
 ## Installation  
 1. Download the project files.  
 2. Install dependencies using: pip install -r requirements.txt
-3. Run the script:
